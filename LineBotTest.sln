@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication9", "WebApplication9\WebApplication9.csproj", "{BDF0A354-4BD1-4C2A-A037-98732C8431D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineBOT", "WebApplication9\LineBOT.csproj", "{BDF0A354-4BD1-4C2A-A037-98732C8431D8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeChatBOT", "WeChatBOT\WeChatBOT.csproj", "{A548E168-7A26-4A88-AFD1-27C0C35FAD18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramBOT", "TelegramBOT\TelegramBOT.csproj", "{358F2795-9419-42A0-B7A5-28AB1A46109A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineChatBOT", "LineChatBOT\LineChatBOT.csproj", "{DA6650B0-5D2F-4D9F-B5E2-2462DEC87EC5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{A548E168-7A26-4A88-AFD1-27C0C35FAD18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A548E168-7A26-4A88-AFD1-27C0C35FAD18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A548E168-7A26-4A88-AFD1-27C0C35FAD18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{358F2795-9419-42A0-B7A5-28AB1A46109A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{358F2795-9419-42A0-B7A5-28AB1A46109A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{358F2795-9419-42A0-B7A5-28AB1A46109A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{358F2795-9419-42A0-B7A5-28AB1A46109A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA6650B0-5D2F-4D9F-B5E2-2462DEC87EC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA6650B0-5D2F-4D9F-B5E2-2462DEC87EC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA6650B0-5D2F-4D9F-B5E2-2462DEC87EC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA6650B0-5D2F-4D9F-B5E2-2462DEC87EC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

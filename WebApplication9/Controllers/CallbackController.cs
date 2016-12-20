@@ -6,10 +6,10 @@ using Newtonsoft.Json;
 using System.Net;
 using System.Text;
 using System.IO;
-using WebApplication9.Models;
+using LineBOT.Models;
 using System.Collections.Generic;
 
-namespace WebApplication9.Controllers
+namespace LineBOT.Controllers
 {
     public class CallbackController : ApiController
     {

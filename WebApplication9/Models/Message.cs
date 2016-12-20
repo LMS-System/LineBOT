@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace WebApplication9.Models
+namespace LineBOT.Models
 {
     public class Message
     {

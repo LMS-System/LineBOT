@@ -1,13 +1,11 @@
-﻿using System;
-using System.Net.Http;
-using System.Threading.Tasks;
-using System.Web.Http;
+﻿using KakaoChatBOT.Models;
 using Newtonsoft.Json;
+using System;
+using System.Collections.Generic;
+using System.IO;
 using System.Net;
 using System.Text;
-using System.IO;
-using KakaoChatBOT.Models;
-using System.Collections.Generic;
+using System.Web.Http;
 
 namespace KakaoChatBOT.Controllers
 {
